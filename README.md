@@ -2,7 +2,7 @@
 (Link goes here)
 
 # Flowchart
-I started this process by thinking of the concepts first, and documented it in the flowchart as I went along. Some extra thinking was also documented. (Link goes here)
+I started this process by thinking of the concepts first, and documented it in the flowchart as I went along. Some extra thinking was also documented. https://github.com/KuroFoxCoder/1.2-Word-Frequency/blob/main/1.2%20thought%20process.drawio
 
 # Summarized function
 When the program runs, it will first request the user to input a sentence. It will then use split(" ") to use the spaces to divide the sentence into an array of words, unless the sentence has more than 20 words, in which case the program will ask for a new sentence.
