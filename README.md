@@ -1,5 +1,5 @@
 # Video
-(Link goes here)
+[(Link here)](https://drive.google.com/file/d/1UbiN5ia3lGlDDKuyJ8Xc22xbrOebh2qL/view?usp=sharing)
 
 # Flowchart
 I started this process by thinking of the concepts first, and documented it in the flowchart as I went along. Some extra thinking was also documented. https://github.com/KuroFoxCoder/1.2-Word-Frequency/blob/main/1.2%20thought%20process.drawio
