@@ -1,3 +1,6 @@
+# Code
+[Here is the code for this assignment.](https://github.com/KuroFoxCoder/1.2-Word-Frequency/blob/main/word-sort-code.md)
+
 # Video
 [(Link here)](https://drive.google.com/file/d/1UbiN5ia3lGlDDKuyJ8Xc22xbrOebh2qL/view?usp=sharing)
 
